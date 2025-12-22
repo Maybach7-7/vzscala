@@ -1,4 +1,4 @@
-# vzscala
+# vzscala / rps / rock paper scissors
 
 Самый лучший способ играть в RPS (rock paper scissors) с помощью Scala.
 

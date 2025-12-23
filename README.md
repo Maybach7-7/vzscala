@@ -1,4 +1,4 @@
-# vzscala / gps / gudora paper scissors / пепе / лягушонок пепе / фааа / this is working / ganvest paper scissors
+# vzscala / gps / gudora paper scissors / пэпэ / лягушонок пэпэ / фааа / this is working / ganvest paper scissors
 
 Самый лучший способ играть в GPS (gudora paper scissors - отечественный аналог rock paper scissors) с помощью Scala.
 
